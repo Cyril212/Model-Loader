@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\cyril\documents\visual studio 2015\projects\opengltest\opengltest\main.cpp(60): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\cyril\documents\visual studio 2015\projects\opengltest\opengltest\main.cpp(182): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\cyril\documents\visual studio 2015\projects\opengltest\opengltest\main.cpp(182): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\cyril\documents\visual studio 2015\projects\opengltest\opengltest\main.cpp(322): warning C4305: '+=': truncation from 'double' to 'float'
+  OpenGLTest.vcxproj -> C:\Users\Cyril\Documents\Visual Studio 2015\Projects\OpenGLTest\Debug\OpenGLTest.exe
